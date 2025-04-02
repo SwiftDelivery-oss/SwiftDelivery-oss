@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @qb-oss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 **Swift Delivery**
 
-<!---
-qb-oss/qb-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! I'm Swift Delivery, a passionate developer currently diving headfirst into the exciting universe of game modding!
+
+🔧 **Skills & Interests**
+
+* 🎮 **Game Modding & Customization:** My current obsession!
+* 🐍 **Python:** Leveling up my skills!
+* ⚙️ **C#:** Still exploring and experimenting!
+* 🏗️ **Building & Improving:** Always tinkering and refining my creations.
+
+📌 **Other Projects:**
+
+* 🖱️ [PrecisionMouseControl](https://github.com/SwiftDelivery-oss/PrecisionMouseControl) - A mod for bl2 focused on enhancing mouse precision.
