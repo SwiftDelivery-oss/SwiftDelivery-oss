@@ -11,4 +11,4 @@ Hey there! I'm Swift Delivery, a passionate developer currently diving headfirst
 
 📌 **Other Projects:**
 
-* 🖱️ [PrecisionMouseControl](https://github.com/SwiftDelivery-oss/PrecisionMouseControl) - A mod for bl2 focused on enhancing mouse precision.
+* 🖱️ [BL2 - PrecisionMouseControl]([https://github.com/SwiftDelivery-oss/PrecisionMouseControl](https://github.com/SwiftDelivery-oss/BL2-PrecisionMouseControl)) - A mod for bl2 focused on enhancing mouse precision.
